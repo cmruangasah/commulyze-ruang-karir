@@ -359,7 +359,8 @@ export default function App() {
                       dataKey="name" 
                       stroke="var(--text-muted)" 
                       interval={0}
-                      tick={<CustomXAxisTick />}
+                      height={80}
+                      tick={{ angle: -45, textAnchor: 'end', fontSize: 11, dy: 10, dx: -5 }}
                     />
                     <YAxis stroke="var(--text-muted)" tick={{ fill: 'var(--text-muted)' }} />
                     <Tooltip 
