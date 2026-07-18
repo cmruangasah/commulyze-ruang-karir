@@ -86,6 +86,7 @@ body {
   cursor: pointer;
   transition: all 0.2s ease;
   text-align: left;
+  outline: none;
 }
 
 .nav-btn:hover {
@@ -476,12 +477,13 @@ body {
   
   .nav-btn {
     width: 100%;
-    padding: 0.5rem 0.25rem;
-    font-size: 0.75rem;
+    padding: 0.5rem 0.1rem;
+    font-size: 0.7rem;
     flex-direction: column;
     justify-content: center;
     text-align: center;
     gap: 0.25rem;
+    white-space: normal;
   }
   
   .nav-btn.active {
