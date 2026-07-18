@@ -107,6 +107,7 @@ body {
   padding: 2.5rem;
   overflow-y: auto;
   max-width: 1400px;
+  min-width: 0;
   margin: 0 auto;
 }
 
@@ -487,6 +488,7 @@ body {
   }
   .dashboard-container {
     flex-direction: column;
+    width: 100%;
   }
   
   .sidebar {
@@ -526,6 +528,9 @@ body {
   
   .main-content {
     padding: 1rem;
+    width: 100%;
+    min-width: 0;
+    overflow-x: hidden;
   }
   
   .header {
