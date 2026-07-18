@@ -231,7 +231,8 @@ export default function App() {
         <header className="header">
           <div className="header-text">
             <h1>{t.headerTitle}</h1>
-            <p>{t.headerDesc} &bull; <strong>{t.cutoff}</strong></p>
+            <p>{t.headerDesc}</p>
+            <p className="cutoff-text">{t.cutoff}</p>
           </div>
           
           {/* Language Switcher */}
