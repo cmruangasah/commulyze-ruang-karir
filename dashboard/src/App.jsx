@@ -13,6 +13,7 @@ const i18n = {
     tabEngage: "Engagement Tiers",
     headerTitle: "Community Health & Engagement Report",
     headerDesc: "Strategic insights for stakeholders and community managers.",
+    cutoff: "Data Cutoff: July 18, 2026, 15:00 WIB",
     kpiTotal: "Total Community Base",
     kpiActive: "Active in Sub-groups",
     kpiPassive: "Passive (Announcement Only)",
@@ -79,6 +80,7 @@ const i18n = {
     tabEngage: "Tingkat Engagement",
     headerTitle: "Laporan Kesehatan & Interaksi Komunitas",
     headerDesc: "Wawasan strategis untuk para founder dan manajer komunitas.",
+    cutoff: "Data Cutoff: 18 Juli 2026, 15:00 WIB",
     kpiTotal: "Total Basis Komunitas",
     kpiActive: "Aktif di Sub-grup",
     kpiPassive: "Pasif (Hanya Pengumuman)",
@@ -199,7 +201,7 @@ export default function App() {
       <nav className="sidebar">
         <div className="logo">
           <Activity size={24} color="var(--primary)" />
-          <h2>CommuLyze Pro</h2>
+          <h2>CommuLyze</h2>
         </div>
         <div className="nav-items">
           <button 
@@ -229,7 +231,7 @@ export default function App() {
         <header className="header">
           <div className="header-text">
             <h1>{t.headerTitle}</h1>
-            <p>{t.headerDesc}</p>
+            <p>{t.headerDesc} &bull; <strong>{t.cutoff}</strong></p>
           </div>
           
           {/* Language Switcher */}
