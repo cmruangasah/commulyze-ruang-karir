@@ -27,6 +27,7 @@ body {
   background-color: var(--bg-main);
   color: var(--text);
   min-height: 100vh;
+  overflow-x: hidden;
   /* Premium radial gradient background */
   background-image: 
     radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 25%),
@@ -451,8 +452,39 @@ body {
   scrollbar-width: none;
 }
 
+.insights-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.engage-chart-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+}
+
+.engage-bar-chart {
+  flex: 1;
+  min-width: 400px;
+}
+
+.engage-pie-chart {
+  flex: 1;
+  min-width: 300px;
+}
+
 /* Mobile Responsiveness */
 @media (max-width: 768px) {
+  .insights-grid {
+    grid-template-columns: 1fr;
+  }
+  
+  .engage-bar-chart,
+  .engage-pie-chart {
+    min-width: 100%;
+  }
   .dashboard-container {
     flex-direction: column;
   }

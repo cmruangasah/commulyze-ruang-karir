@@ -280,7 +280,7 @@ export default function App() {
         {/* Tab: Overview */}
         {activeTab === 'overview' && (
           <div className="animate-fade-in">
-            <div className="insights-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
+            <div className="insights-grid">
               
               <section className="summary-section glass" style={{ marginBottom: 0, borderLeft: '4px solid var(--primary)' }}>
                 <div className="section-header">
@@ -438,7 +438,7 @@ export default function App() {
               </div>
             </section>
 
-            <div className="insights-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
+            <div className="insights-grid">
               <section className="summary-section glass" style={{ marginBottom: 0, borderLeft: '4px solid var(--primary)' }}>
                 <div className="section-header">
                   <h2 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
@@ -499,9 +499,9 @@ export default function App() {
                 <p>{t.engageDesc}</p>
               </div>
               
-              <div className="chart-wrapper" style={{ display: 'flex', flexWrap: 'wrap', gap: '2rem' }}>
+              <div className="chart-wrapper engage-chart-wrapper">
                 
-                <div style={{ flex: 1, minWidth: '400px' }}>
+                <div className="engage-bar-chart">
                   <ResponsiveContainer width="100%" height={350}>
                     <BarChart data={communityData.engagementDistribution} layout="vertical" margin={{ top: 20, right: 30, left: 80, bottom: 20 }}>
                       <CartesianGrid strokeDasharray="3 3" stroke="var(--border)" horizontal={false} />
@@ -522,7 +522,7 @@ export default function App() {
                   </ResponsiveContainer>
                 </div>
 
-                <div style={{ flex: 1, minWidth: '300px' }}>
+                <div className="engage-pie-chart">
                   <ResponsiveContainer width="100%" height={350}>
                     <PieChart>
                       <Pie
@@ -555,7 +555,7 @@ export default function App() {
               </div>
             </section>
 
-            <div className="insights-grid" style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
+            <div className="insights-grid">
               <section className="summary-section glass" style={{ marginBottom: 0, borderLeft: '4px solid var(--primary)' }}>
                 <div className="section-header">
                   <h2 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem' }}>
