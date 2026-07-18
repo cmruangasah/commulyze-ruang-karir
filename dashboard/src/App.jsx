@@ -240,13 +240,13 @@ export default function App() {
               className={`lang-btn ${lang === 'en' ? 'active' : ''}`}
               onClick={() => setLang('en')}
             >
-              🇬🇧 EN
+              <Globe size={14} /> EN
             </button>
             <button 
               className={`lang-btn ${lang === 'id' ? 'active' : ''}`}
               onClick={() => setLang('id')}
             >
-              🇮🇩 ID
+              <Globe size={14} /> ID
             </button>
           </div>
         </header>
