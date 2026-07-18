@@ -1,0 +1,8660 @@
+{
+  "groups": [
+    {
+      "id": "announcement_member_list.txt",
+      "name": "Announcement",
+      "size": 1224
+    },
+    {
+      "id": "cv review & sharing materi_member_list.txt",
+      "name": "Cv Review & Sharing Materi",
+      "size": 731
+    },
+    {
+      "id": "info loker_member_list.txt",
+      "name": "Info Loker",
+      "size": 914
+    },
+    {
+      "id": "jobseeker_member_list.txt",
+      "name": "Jobseeker",
+      "size": 525
+    },
+    {
+      "id": "learn english_member_list.txt",
+      "name": "Learn English",
+      "size": 332
+    },
+    {
+      "id": "promosi_member_list.txt",
+      "name": "Promosi",
+      "size": 375
+    },
+    {
+      "id": "ruang curhat_member_list.txt",
+      "name": "Ruang Curhat",
+      "size": 893
+    },
+    {
+      "id": "side hustle lynk_member_list.txt",
+      "name": "Side Hustle Lynk",
+      "size": 335
+    },
+    {
+      "id": "upskill_member_list.txt",
+      "name": "Upskill",
+      "size": 406
+    }
+  ],
+  "members": {
+    "+31 6 17166935": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+46 72 239 13 20": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+60 11-2790 6595": [
+      "Announcement"
+    ],
+    "+60 18-223 1528": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 811-114-449": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 811-1861-100": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 811-1952-712": [
+      "Announcement",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 811-1985-852": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 811-1988-813": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 811-2042-296": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 811-2391-015": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 811-2403-400": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 811-2452-111": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 811-3131-159": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 811-4101-090": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 811-434-432": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 811-5425-511": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 811-7884-949": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 811-8006-880": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Upskill"
+    ],
+    "+62 811-8880-596": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 811-9699-915": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 811-9941-324": [
+      "Announcement"
+    ],
+    "+62 812-1012-4962": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-1134-3530": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-1201-0637": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 812-1229-7918": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 812-1236-8820": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 812-1247-0002": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-1275-0968": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 812-1276-5143": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-1296-9089": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-1345-2105": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-1530-0240": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 812-1556-5541": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Upskill"
+    ],
+    "+62 812-1663-1191": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 812-1683-7804": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 812-1717-4399": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-1772-8891": [
+      "Announcement"
+    ],
+    "+62 812-1859-9049": [
+      "Announcement"
+    ],
+    "+62 812-1875-7275": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 812-1899-4162": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 812-1950-9140": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 812-1955-2535": [
+      "Announcement",
+      "Info Loker",
+      "Upskill"
+    ],
+    "+62 812-2156-5837": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-2221-5453": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-2241-3837": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 812-2249-3077": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 812-2483-0973": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-2551-5522": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-2658-5853": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 812-2730-2001": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-2837-3800": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 812-3084-4070": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-3091-6991": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 812-3198-4565": [
+      "Announcement"
+    ],
+    "+62 812-3378-7437": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-3383-3321": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 812-3531-0721": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-3555-5059": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 812-3836-2240": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 812-4146-9290": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 812-4627-8522": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 812-4988-1260": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 812-5202-7635": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-5471-2668": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 812-5895-1532": [
+      "Announcement",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 812-5941-2481": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 812-5974-9816": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-6214-3303": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-6624-3428": [
+      "Announcement"
+    ],
+    "+62 812-6668-5905": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-7169-7883": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-7640-7199": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 812-8000-2512": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 812-8088-8302": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 812-8101-3534": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 812-8267-0622": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-8268-3307": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 812-8357-4408": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 812-8372-5594": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-8386-4225": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-8574-6794": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-8663-2710": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-8809-9215": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 812-8893-7390": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 812-9037-0953": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 812-9146-9056": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-9165-9161": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 812-9234-6069": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-9235-2809": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 812-9273-0783": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 812-9328-1595": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 812-9350-5226": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 812-9435-1616": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 812-9443-7174": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-9501-543": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 812-9516-570": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 812-9554-0882": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-9665-2780": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 812-9703-4377": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 812-9720-5753": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 812-9876-7426": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 812-9932-1075": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 812-9934-0903": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 812-9944-2752": [
+      "Announcement",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 812-9949-9558": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 813-1098-6633": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-1129-0194": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-1143-9819": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-1166-4589": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 813-1247-3405": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-1362-0462": [
+      "Announcement",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 813-1369-0196": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 813-1488-9902": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 813-1586-843": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-1606-2281": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-1629-3577": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-1639-2092": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-1799-9944": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-1984-2095": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-2057-3545": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-2603-9619": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-2624-0774": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 813-2640-4134": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 813-2667-5996": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-2752-7202": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-2932-6199": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 813-3003-8062": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-3075-0296": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-3266-8782": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-3318-0269": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-3325-6533": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-3343-3310": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 813-3386-4186": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 813-3479-1144": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 813-3530-2473": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 813-3577-2628": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 813-3618-9545": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 813-4361-1279": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 813-4460-7429": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-5701-5337": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 813-5709-4477": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-5734-5999": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi"
+    ],
+    "+62 813-5872-1036": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-6232-2293": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 813-6498-3635": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 813-6610-9692": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-6998-8743": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 813-7310-8731": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-7926-0448": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-8047-6340": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 813-8057-0398": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-8065-5207": [
+      "Announcement",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-8070-1988": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-8112-0746": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 813-8156-0609": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-8180-6299": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 813-8265-5151": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-8290-3771": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 813-8532-6050": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 813-8578-2158": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-8855-2785": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 813-8914-5494": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 813-8976-7030": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 813-9198-3949": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 813-9345-5736": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 813-9482-7501": [
+      "Announcement"
+    ],
+    "+62 813-9846-3673": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi"
+    ],
+    "+62 813-9854-8524": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 814-1215-7164": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 815-1138-1429": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 815-1177-2413": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 815-1179-6321": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 815-1992-9830": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 815-2151-5366": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 815-2828-5657": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 815-2984-2918": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 815-3603-7392": [
+      "Announcement",
+      "Jobseeker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 815-4236-5043": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 815-4720-2592": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 815-6900-992": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 815-7204-6750": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 815-7356-1446": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 815-7562-3585": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 815-7615-439": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 815-8143-517": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+62 815-8494-6993": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 816-1764-1399": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 816-1908-416": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 817-0180-914": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 817-241-010": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 817-6432-323": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 817-7640-2022": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 818-0409-4536": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 818-0636-7556": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 818-0672-7726": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 818-0690-9009": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 818-0973-4156": [
+      "Announcement",
+      "Side Hustle Lynk"
+    ],
+    "+62 819-0112-6668": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 819-0254-2607": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 819-0458-6850": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 819-0620-3047": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 819-1720-0905": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 819-3110-6579": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 819-3291-8558": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 819-3830-0064": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 819-3831-7177": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 819-5999-3893": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 819-9525-4888": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 819-9934-7533": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-1005-0028": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-1028-7837": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-1045-7202": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-1154-3998": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-1306-6188": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-1411-1441": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-1431-5544": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-1480-9423": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-1525-7721": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 821-1576-4237": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-1660-0351": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-1853-8737": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 821-1964-3199": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-2034-408": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-2318-0651": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-2492-4314": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-2566-4181": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 821-2584-7123": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-2586-7291": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 821-2627-2968": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-2682-3623": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-2840-4145": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-3316-8181": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 821-3458-0465": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-3516-7075": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "+62 821-3717-8610": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-3767-8500": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-3773-5175": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-3815-2791": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-3840-3865": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 821-3913-4320": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-3939-2489": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-3993-0759": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 821-4032-2200": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-4116-1951": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-4187-0922": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 821-4394-6799": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 821-4455-3232": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-5367-0728": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-5452-9565": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 821-6047-8576": [
+      "Announcement",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "+62 821-6173-3234": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-6266-6271": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-6946-1925": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 821-7775-5490": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-7853-2941": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 821-8304-8767": [
+      "Announcement"
+    ],
+    "+62 821-8447-1311": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-8834-0824": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 821-8888-6705": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 821-8918-0585": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 821-9112-5664": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 821-9509-6556": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 821-9959-8675": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 822-1015-5618": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 822-1049-1500": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 822-1094-7618": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-1330-1656": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 822-1852-4941": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 822-2585-8911": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-2600-0163": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-2612-2187": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 822-2625-1535": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 822-2923-5048": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 822-3132-9311": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-3225-2328": [
+      "Announcement"
+    ],
+    "+62 822-3292-9047": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-3303-6263": [
+      "Announcement"
+    ],
+    "+62 822-3422-7056": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 822-3858-5533": [
+      "Announcement",
+      "Info Loker",
+      "Upskill"
+    ],
+    "+62 822-4111-8618": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 822-4182-1687": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 822-4226-5000": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 822-4490-9544": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 822-4518-6544": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 822-4520-1099": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 822-4817-3835": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 822-4863-3431": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-5190-2881": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 822-5606-5655": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-5768-0039": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 822-6015-4820": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 822-6118-6743": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 822-6184-3742": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 822-6755-6455": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 822-6832-2159": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 822-7589-0763": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 822-7589-4612": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 822-7645-9160": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 822-7790-0646": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 822-8132-8658": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 822-8382-0616": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 822-8448-9581": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 822-8604-2676": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 822-9380-6348": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 822-9729-0743": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 822-9916-6874": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Upskill"
+    ],
+    "+62 823-0713-5264": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 823-1049-3929": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 823-1288-2214": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 823-2176-1442": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 823-2835-0813": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 823-3043-8048": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 823-3191-0228": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 823-3449-0401": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 823-3473-4549": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 823-3542-5115": [
+      "Announcement"
+    ],
+    "+62 823-3573-7848": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 823-3886-4477": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 823-4234-4558": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 823-4665-4107": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 823-4994-4246": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 823-5174-8082": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 823-5339-5055": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 823-6203-8473": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 823-6380-3276": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 823-6766-5305": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 823-7064-8758": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 823-7625-5339": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 823-7759-7339": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 823-8501-2367": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 823-8723-6886": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 823-8747-2547": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 823-8753-0254": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 831-2773-1410": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 831-2792-8944": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 831-3692-1160": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 831-4238-9752": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 831-4319-1408": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 831-4628-2797": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 831-4648-5280": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi"
+    ],
+    "+62 831-4890-8780": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 831-5277-0715": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 831-5327-3073": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 831-5384-1604": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 831-6943-6074": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 838-0342-0169": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 838-0521-4272": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 838-0724-0174": [
+      "Announcement",
+      "Info Loker",
+      "Side Hustle Lynk"
+    ],
+    "+62 838-0743-8689": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 838-1199-8454": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 838-1583-1533": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 838-2094-9067": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 838-2299-9200": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 838-2490-5556": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 838-2700-7937": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 838-3857-4778": [
+      "Announcement",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 838-5444-3550": [
+      "Announcement",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 838-6543-6840": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 838-6596-6363": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 838-7178-7635": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 838-7266-8085": [
+      "Announcement",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 838-7905-5857": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 838-7946-1600": [
+      "Announcement"
+    ],
+    "+62 838-9686-2890": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 838-9819-2235": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 838-9878-9426": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 838-9976-7726": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 851-1703-8274": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 851-1782-0061": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 851-2101-4412": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 851-2278-3369": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 851-2369-1933": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 851-2948-4689": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 851-3424-6767": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 851-3645-8419": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5531-9789": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 851-5543-6909": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 851-5602-1872": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5615-8202": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 851-5619-2704": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5631-2074": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 851-5635-4215": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 851-5667-2445": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 851-5672-5297": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 851-5680-3142": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 851-5681-6267": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5689-7360": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5718-0072": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5723-9433": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5770-8255": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 851-5770-9368": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 851-5809-8655": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-5885-6393": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 851-5947-7331": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 851-5954-8821": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 851-5975-8772": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 851-6159-1103": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 851-6161-4057": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 851-6263-2253": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 851-6293-7856": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-6559-7321": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 851-6718-7594": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 851-7112-3531": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 851-7230-0372": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 851-7310-6774": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 851-7532-9144": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-8000-2490": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 851-8066-4415": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 851-8324-1474": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 851-8665-2963": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 851-8997-2702": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 851-9000-1909": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 851-9084-6211": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 852-1060-6454": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 852-1356-7627": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 852-1553-3843": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 852-1576-9933": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+62 852-1584-7051": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-1606-1166": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-1810-0566": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 852-1874-7722": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-2058-4201": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 852-2267-5360": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "+62 852-2553-3968": [
+      "Announcement",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 852-3384-1884": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 852-3430-3585": [
+      "Announcement",
+      "Info Loker",
+      "Promosi"
+    ],
+    "+62 852-3503-9855": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-3643-0028": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-3679-0227": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 852-3803-2230": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 852-3910-4267": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 852-4048-6408": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 852-4560-5032": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-4639-9418": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-5732-5887": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 852-5912-7995": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 852-5947-3784": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-6266-7287": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 852-6328-1863": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 852-7272-6519": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-8025-7646": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-8030-4833": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-8058-3594": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 852-8180-9933": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-8283-3425": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-8333-6569": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 852-8438-5024": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 852-8833-3218": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-8880-7668": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-9033-1010": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 852-9095-7696": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-9109-8689": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 852-9745-4056": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 853-1106-1624": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 853-1936-7178": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 853-2544-6441": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 853-2999-0803": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 853-3031-6411": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 853-3191-1205": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 853-3259-5750": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 853-3361-1850": [
+      "Announcement",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "+62 853-3407-0813": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 853-3582-3987": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 853-3598-9175": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 853-3616-3232": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 853-3908-7160": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 853-5600-9069": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 853-6006-1021": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 853-6593-9818": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 853-6692-7978": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 853-7646-0145": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 853-9561-9677": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 853-9827-3310": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 855-1587-799": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 855-4623-0384": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 855-9165-0522": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 856-0626-3949": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 856-0806-8696": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 856-0999-6155": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 856-1727-571": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 856-2067-290": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 856-2092-029": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 856-2699-626": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 856-3838-907": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 856-4259-4237": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 856-4315-5429": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 856-4371-7115": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 856-4529-7595": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 856-4533-2622": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 856-4594-3335": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 856-4897-6668": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 856-5589-6780": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 856-8540-329": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 856-9160-9474": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 856-9225-3639": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 856-9289-9930": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 856-9299-0889": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 856-9407-6604": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 856-9506-5094": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Upskill"
+    ],
+    "+62 856-9726-1626": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Side Hustle Lynk"
+    ],
+    "+62 856-9732-0111": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 856-9735-0043": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 857-0117-4413": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi"
+    ],
+    "+62 857-0437-6156": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 857-1057-9105": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-1102-7586": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 857-1115-1295": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 857-1287-4088": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-1431-0916": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-1821-7599": [
+      "Announcement",
+      "Info Loker",
+      "Upskill"
+    ],
+    "+62 857-1855-7344": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-1865-3335": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 857-1949-9359": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-1956-6537": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 857-1963-0922": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-1971-1346": [
+      "Announcement"
+    ],
+    "+62 857-1992-3096": [
+      "Announcement",
+      "Learn English",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-2143-7270": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-2303-2808": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 857-2357-6663": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Upskill"
+    ],
+    "+62 857-2394-9392": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 857-2530-3217": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-2632-0198": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 857-2675-3082": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-2680-1304": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 857-2847-4929": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-2852-3102": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 857-2888-7905": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 857-2999-6159": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-3001-5505": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 857-3287-1353": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-3295-1738": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-3646-6760": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 857-3829-0724": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 857-4067-5196": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 857-4345-4527": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "+62 857-4687-2306": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 857-4830-9865": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 857-5850-4871": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-5910-5605": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 857-6002-2175": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 857-6300-9000": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker"
+    ],
+    "+62 857-7070-7904": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 857-7203-0140": [
+      "Announcement",
+      "Info Loker",
+      "Promosi"
+    ],
+    "+62 857-7253-1755": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 857-7263-7157": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 857-7292-7010": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-7458-4644": [
+      "Announcement",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-7551-0010": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 857-7771-5774": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 857-7910-4030": [
+      "Announcement",
+      "Info Loker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-7934-9815": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-8030-3898": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "+62 857-8168-3788": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 857-8175-4866": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-8424-1760": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-8574-6394": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-8596-8108": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 857-8658-2297": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 857-9255-3761": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 857-9276-0616": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 857-9390-3217": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 857-9797-6976": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 857-9865-3944": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 858-1114-0082": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 858-1724-6705": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 858-1748-5336": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 858-1919-5036": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 858-1967-6423": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 858-2084-7767": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 858-4174-8875": [
+      "Announcement",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 858-4250-1408": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 858-4279-4768": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 858-4285-6724": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 858-4612-9258": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 858-5541-7716": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 858-5579-0491": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 858-5663-7837": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 858-6360-0283": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 858-6441-0478": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 858-6676-6645": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 858-6987-4113": [
+      "Announcement",
+      "Learn English",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 858-7733-1099": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "+62 858-8031-4358": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 858-8325-8841": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 858-8425-2908": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 858-8680-1756": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 858-8976-1636": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 858-9038-6818": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 858-9077-8061": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 858-9329-3497": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 858-9401-0226": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 858-9582-1744": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 858-9998-7772": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 859-0451-9451": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 859-1067-16099": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 859-2231-1190": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 859-3612-7590": [
+      "Announcement"
+    ],
+    "+62 859-4085-5209": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 859-5934-4319": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 859-6023-3226": [
+      "Announcement",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 859-6054-2882": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 859-6146-6148": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 859-7328-7623": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 859-7546-0494": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 877-0134-6182": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 877-1659-2588": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 877-1799-8397": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 877-1933-9644": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 877-2395-1538": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 877-2596-1070": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 877-3008-1783": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 877-3356-7052": [
+      "Announcement",
+      "Info Loker",
+      "Upskill"
+    ],
+    "+62 877-5614-0210": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 877-6260-2460": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 877-6555-2573": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 877-6825-1877": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 877-6924-1446": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 877-7529-8116": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 877-7705-0055": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 877-7837-7118": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 877-7999-8877": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 877-8076-6139": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 877-8405-7472": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 877-8434-3649": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 877-8836-4142": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 877-8853-5831": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 878-0021-7353": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 878-0875-4196": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 878-1123-1464": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 878-1450-3802": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 878-2143-6624": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 878-2547-0647": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 878-3232-8315": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 878-3858-6322": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 878-4487-3215": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 878-4759-4257": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 878-5358-1422": [
+      "Announcement",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 878-6001-2882": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 878-6009-4976": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 878-6151-0080": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 878-6217-2105": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 878-6460-0694": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 878-7151-5779": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 878-7196-2897": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 878-7701-7214": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 878-7868-9745": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 878-8344-2601": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 878-8359-6631": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 878-8368-8476": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 878-8443-5086": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 878-8761-8874": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 878-8944-7880": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 878-8982-3592": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi"
+    ],
+    "+62 878-8990-1930": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 881-0110-26088": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 881-0124-78880": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 881-1708-953": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 881-3500-431": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 882-0082-89341": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 882-1045-2942": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 882-1214-9862": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 882-1315-1212": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 882-1469-3802": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 882-2488-4761": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 882-2581-3814": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 882-2837-4033": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 882-2854-7086": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 882-2987-7220": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+62 882-3191-4556": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 882-3234-6816": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 882-3323-1135": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 882-8938-9379": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 882-9380-3708": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 882-9527-8243": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 887-7206-337": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 888-0251-3333": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 888-5010-105": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 888-8323-803": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 889-0282-0025": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 889-5287-463": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 895-0237-9782": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 895-0531-5842": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 895-0825-8307": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 895-0987-9668": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 895-1037-3602": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "+62 895-1291-6852": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 895-1354-8821": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 895-1450-2900": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 895-1576-9311": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 895-2262-4091": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 895-2473-9800": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 895-2478-8592": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 895-2485-7476": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-2515-0974": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 895-2517-2022": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 895-2815-9489": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 895-2953-4323": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 895-3043-8610": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Promosi"
+    ],
+    "+62 895-3212-00566": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 895-3247-78174": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 895-3270-03738": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 895-3271-29012": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 895-3307-86289": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 895-3317-87813": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-3320-23158": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 895-3322-32424": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 895-3370-39111": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 895-3414-76026": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-3436-25020": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 895-3440-95148": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 895-3486-13669": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-3585-06250": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+62 895-3644-91814": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 895-3685-64100": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-3719-59248": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 895-3769-37205": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-3793-17788": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 895-3856-32323": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-3921-22633": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 895-3971-92066": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 895-3977-38474": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 895-4118-94579": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 895-4123-10212": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 895-4141-79001": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 895-4174-82568": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 895-4215-08544": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 895-6050-81777": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 895-6058-58440": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-6059-10341": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 895-6107-86892": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi"
+    ],
+    "+62 895-6110-69861": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 895-6218-67757": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 895-7084-47300": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 895-8052-88613": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 896-0180-7013": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 896-0187-1211": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-0305-9169": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 896-0441-0582": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-0697-7422": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 896-0862-2962": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 896-0947-2195": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-1863-2280": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "+62 896-2058-8834": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 896-2110-3245": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 896-2120-0736": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+62 896-2234-7990": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 896-2361-5002": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-2799-4285": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 896-2806-2002": [
+      "Announcement",
+      "Learn English"
+    ],
+    "+62 896-2968-3755": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 896-3097-1505": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 896-3130-3601": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-3550-8885": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 896-3561-8878": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 896-3693-8296": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 896-3821-3261": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-4288-6823": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-4337-7699": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 896-4475-5899": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-4633-0511": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "+62 896-4648-9071": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-4801-0233": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 896-5275-3659": [
+      "Announcement",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 896-5308-4391": [
+      "Announcement",
+      "Side Hustle Lynk"
+    ],
+    "+62 896-5374-0604": [
+      "Announcement",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 896-5448-2995": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-5455-7852": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 896-6343-0305": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 896-6437-3507": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-6629-7161": [
+      "Announcement"
+    ],
+    "+62 896-6673-8437": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-7243-3961": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 896-7342-6709": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 896-7683-2387": [
+      "Announcement",
+      "Upskill"
+    ],
+    "+62 896-7798-4368": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 896-7850-2079": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-7852-7615": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 896-8257-6392": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 896-8278-9279": [
+      "Announcement",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 896-8371-0909": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English"
+    ],
+    "+62 896-8830-6819": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 896-8831-6050": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "+62 896-8949-3121": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "+62 896-9034-0509": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 896-9632-3661": [
+      "Announcement"
+    ],
+    "+62 896-9666-4124": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "+62 897-2389-040": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+62 897-5733-440": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 897-7731-777": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 897-8235-403": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 897-9767-826": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 897-9952-234": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 898-0184-418": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "+62 898-0460-916": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "+62 898-1961-569": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+62 898-2675-027": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 898-3349-330": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "+62 898-3899-666": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 898-4552-523": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "+62 898-5952-947": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "+62 898-7127-528": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 898-8972-381": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "+62 898-9435-382": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 898-9512-042": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "+62 899-4663-777": [
+      "Announcement"
+    ],
+    "+62 899-5386-188": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "+62 899-7716-615": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "+62 899-8040-484": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "+62 899-9557-404": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "+65 8791 9917": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "+82 10-9676-6221": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "Anggitri Sihombing B3 Excel": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "Aschente!": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "Ayu": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "BIRU 파란": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "Bams Raqila": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "Death and rebirth": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "Dhaneswara Intan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "EL_Store Supplier Parfum Original & Bergaransi": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "Edo Aditya BCPM B1": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "Fadhlir Rahman": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "Hello. I’m using WhatsApp Business.": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "Hey there! I am using WhatsApp.": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Upskill"
+    ],
+    "Huffadz Tsel": [
+      "Announcement",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "I love write, makeup, and drawing": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "If you don't try, you won't know": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "Just an cyberSec enthusiast": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "Laurensius Jonathan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "Luthfia Nur Andhita B4 Excel": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "Mei Dila": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "Muhammad Arif R BCPM B1": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "NO RUSH ORDER- cek turnitin avail versi lama": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "Natasha Alifia BCPM B1": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "QS 7:179": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "RQ Isykarima Group": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "Rahayu Lestari": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "Silahkan dipesan kakak": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "Stay foolish stay learning": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "Stephanie Evelyn Swatan B4 Excel MBCPM #1": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "Velly Mediviera B4 Excel": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "Victory Blessing Digital": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "WHATSAPP ERROR": [
+      "Announcement",
+      "Jobseeker",
+      "Promosi",
+      "Upskill"
+    ],
+    "Work hard, play hard": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "propertyjakartaupdate Priskila Brighton": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~#SustainableBusiness": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~A Labib": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Abrianingrum": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "~Adam": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Adelya": [
+      "Announcement"
+    ],
+    "~Adhi Wijaya": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Admin Al Aqsa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Agustia Sinta D. Parwata": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Ahmad Farhan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Learn English",
+      "Side Hustle Lynk"
+    ],
+    "~Ajeng": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~Al": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~Amalul Hafidh": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Andreas Obadja": [
+      "Announcement",
+      "Info Loker",
+      "Promosi"
+    ],
+    "~Angga Pangestu": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Angka Ramadhani": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Anisa Valentina": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Annisa' Araminta": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Aohaipanpan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Aprilla Safa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Ardean Elga Natsuratama": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "~Ardi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Arellion": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Ariq": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Atik": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Side Hustle Lynk"
+    ],
+    "~Ayumei": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Bayu Suyantino": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Be Empress’ed": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Berliana": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Bevan Siregar": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Bookkeeping": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "~Catherine": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Choi_Choirudin": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Cindy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~DMA": [
+      "Announcement",
+      "Cv Review & Sharing Materi"
+    ],
+    "~Danang Kuncoro": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "~Danis Rivianto": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Desisca Indah Marlim": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Devi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Dew": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Deyya": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Dhaneswara Intan Business": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Dhea Paramitha Ramadhani": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Dhelia Putri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Diah": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Dian": [
+      "Announcement",
+      "Info Loker",
+      "Side Hustle Lynk"
+    ],
+    "~Diano": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~Dicky Ardian": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Didi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Dika": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Dila": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Dona Putri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Donny Ardianto": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Dwi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~EL STORE": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Edo Mahendra": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Ekajuliari": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Erni": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Eve": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "~Evita": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~Fa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Faisal Azmy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Faith Joanna": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "~Fajrul Abdillah": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "~Faraa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~Farel": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Farhan Ghani Hadisyah": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Farouck": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Fauzi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "~Ferdi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Fikri Raihan": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Fikry Haikal": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Finka Tjandra": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Fitriyani": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Florin": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Fuad Mustholahul": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Gilang Ananda": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Golden Chandra Oentoro": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Hariansyah": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Hartin": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Hemm": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Ima": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Inggrid": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Inna": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Int": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Irawan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Iril": [
+      "Announcement",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "~Irvan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Isnnrr": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Iwan Satria": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~Izzah Fara": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Kul Wa Digital kreatif id": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~L Chandra": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Lady’s": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Liv": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Louis H": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~M David U": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~M. ARIFIN ILHAM SIREGAR": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~MTh": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Maa": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk"
+    ],
+    "~Madeleine": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Mamang Rahman": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Manda": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Maria A": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Maria Olivia": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi"
+    ],
+    "~Maulida Putri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Meimei": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Melly Ika Verlinda": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Mia Munawwaroh": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Michelle Amarta Devi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Muh Farhan Fadliansyah": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~Muh Rizky Dana": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Muhamad Irvan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Muhammad Farhan Ali": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~Myorder": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~NH": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~NP": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Nandila Kurniati": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Naufal Imantyasto": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Naw |": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~Newbie": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Nextarian Zohira": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Nia Ainayah": [
+      "Announcement",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Nimas Amelia": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Noni": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Novia": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Novita": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Nurfaizy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Nurul": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "~Odit": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "~Omnisicient": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Orvin Jairus": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Ovb": [
+      "Announcement",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~RPK": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~Rahma Aulia Nugraha": [
+      "Announcement",
+      "Info Loker",
+      "Upskill"
+    ],
+    "~Rakryan": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Ratih Pramesti": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Ree": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Regin": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Renggo Dirgantoro": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Retno Handayani (Red)": [
+      "Announcement",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~Ria Soeratinojo": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Ricca": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Rifky": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Rifqi Pratama": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Rino": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~Risa Cineva Creative": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~Risi Parwati": [
+      "Announcement",
+      "Learn English"
+    ],
+    "~Risna Maulina": [
+      "Announcement"
+    ],
+    "~Robin Theputra": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Rusmanhadi Takbir": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Ryna": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~SEPTIAN ABRAR FIRDAUS A": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~SUSAN A PAULINA": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "~Safira Aryantiputri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~Salsabila Dian Safitri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Shalihah": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Shofia": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~Sifa Fashiha": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Silvia Martasari": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Sri Rejeki Remote Worker": [
+      "Announcement",
+      "Side Hustle Lynk"
+    ],
+    "~Sya": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Syaima": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Tahnia Kenasih": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Tian": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "~Tiara": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Timotius Christian": [
+      "Announcement"
+    ],
+    "~Tm": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk"
+    ],
+    "~Umi Fitria": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Side Hustle Lynk"
+    ],
+    "~Upi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~Wika": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Windy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Yas": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Yasmeen Rasidi": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~Yoga Pratama": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Yusuff": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Za": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~Zen Akbar": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~aderiza": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~alni": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~arian": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ars": [
+      "Announcement",
+      "Info Loker",
+      "Side Hustle Lynk"
+    ],
+    "~bayusukma": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~dap": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~destia": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~diaz": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~eisa": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~farrelrizqy6": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~firdaus yusuf": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~haf": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "~hanifatiradhia": [
+      "Announcement",
+      "Upskill"
+    ],
+    "~haris": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~herastu rizka": [
+      "Announcement",
+      "Jobseeker",
+      "Promosi",
+      "Upskill"
+    ],
+    "~ita": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~jessica": [
+      "Announcement",
+      "Info Loker"
+    ],
+    "~julio sihombing": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~kiyaaa~": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~mey": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~mila": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~mmuhy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~mu'minatun | virtual assistant": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi"
+    ],
+    "~prazzariadi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~putriciaa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "~r.ayu": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~rahma": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~raisya": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ramabayuw": [
+      "Announcement",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~rijki": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ritaa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~rivan": [
+      "Announcement",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ri~": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "~rwdyntii": [
+      "Announcement"
+    ],
+    "~salsa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~selvi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "~shiffaumbara": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~soph": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ullss": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~viefznlarfkh": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~wd": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~yuasa yuasa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~~ dhita kusuma ~": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~~ekanandaa": [
+      "Announcement",
+      "Info Loker",
+      "Learn English"
+    ],
+    "~~fira": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~~nieq": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Upskill"
+    ],
+    "~~~": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker"
+    ],
+    "~Αυγουστίνος": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~هاف": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~‘Afiya ‘A": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ @RQ_Isykarima": [
+      "Announcement",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~ ADMIN": [
+      "Announcement"
+    ],
+    "~ Addini": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Adeevarubyolshop": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Adek": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Aldian": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Arina": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi"
+    ],
+    "~ Avissa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Awan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Azhar": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Bang Hen": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Bayu Sigit P": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~ Cesar Putra": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~ Challie": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Charly": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ DD": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ Davin Tona": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ Deddy Hidayat": [
+      "Announcement",
+      "Upskill"
+    ],
+    "~ Devi Sanistya": [
+      "Announcement",
+      "Jobseeker",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Df": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Dwi Putri A.": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~ Endah Qodariningsih": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Ertiga": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Fachri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Faiz Pangageng": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ FajarM": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Fara": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Gina Insyira": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Promosi",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ GiovaniG": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Gold is Good oh My God": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Haff": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Hasna": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Haya Indonesia": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Ihza": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ Iman Solehudin": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Upskill"
+    ],
+    "~ Irtiah": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Isya": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Januantara": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Jessica Florence": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ Johannes Silaban": [
+      "Announcement",
+      "Learn English"
+    ],
+    "~ Joy": [
+      "Announcement",
+      "Promosi",
+      "Upskill"
+    ],
+    "~ Jual Telur Jogja": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Kayyy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Kiky": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ LHANTHIAR": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Laudy A Saragih": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Li :)": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Upskill"
+    ],
+    "~ Linggar": [
+      "Announcement",
+      "Learn English"
+    ],
+    "~ Lulana Business Account": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ M.Rafif Musyaffa Rakha": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ MG WT": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Makeupby.detriaputri": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Mallikafitria": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ Manajemen ABCo Sugesti Motivatindo": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Maruf (Sameday)": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Mas Fatih": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Mile": [
+      "Announcement",
+      "Upskill"
+    ],
+    "~ Mirsyah Darani": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~ Muhamad Sodikin": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ NZ": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Nabila": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Nadia A": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~ Nail Society": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Nathania": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Ninah Ummu Abdillah": [
+      "Announcement"
+    ],
+    "~ Nn": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Nurul Fitri": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Nurul Khotimah": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Ruang Curhat"
+    ],
+    "~ Pemakai": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ Precious Store": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Puguh": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Puspa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Rafting Cisadane Titikumpul": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "~ Rahayu": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~ Re": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi"
+    ],
+    "~ Reza": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ Rezqi Yadiashah": [
+      "Announcement",
+      "Upskill"
+    ],
+    "~ Rijal": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Side Hustle Lynk"
+    ],
+    "~ Rini.": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Rizka Idfi Kusumaresti": [
+      "Announcement",
+      "Learn English"
+    ],
+    "~ Rizqi": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~ SIMPEL PAJAK": [
+      "Announcement",
+      "Info Loker",
+      "Promosi"
+    ],
+    "~ Samuel Andy": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Sasti Khairunisa": [
+      "Announcement",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Shafeilin 林莎菲": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Skl": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ Sonny": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Suci FTH": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ Syt": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ Tan": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Ruang Curhat"
+    ],
+    "~ Titas Winola": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~ TourHemat & Cewecuan.id": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~ Triul": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Learn English",
+      "Ruang Curhat"
+    ],
+    "~ Utami": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ Venvellline": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ Windi Darmala": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Upskill"
+    ],
+    "~ Winter": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Yo laaa": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Yuda": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ Yulia Shafa": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ Zahwa Nayla": [
+      "Announcement",
+      "Upskill"
+    ],
+    "~ Zakia": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ Zza": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ alfia": [
+      "Announcement"
+    ],
+    "~ ann": [
+      "Announcement",
+      "Upskill"
+    ],
+    "~ anothershel~": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ arum": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ bumi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ bunga": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ can": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ ciaa": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ dasha": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ dea": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ dollies.": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ don't hurt": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ hana": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ jhujhu": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ kravika": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ lorem ipsum dollor sit amet": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "~ melody": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Upskill"
+    ],
+    "~ mostly": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ nadine": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ nezz - cek turnitin 8k": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "~ noviarsyilaa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ okta": [
+      "Announcement",
+      "Learn English"
+    ],
+    "~ oy": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ putra": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ radheeaa": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ rahma": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ rain goone": [
+      "Announcement",
+      "Ruang Curhat"
+    ],
+    "~ rakhma": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ saras": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ sil": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Upskill"
+    ],
+    "~ suci": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ syaraazani": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ tiara-toko bunga bandung indah cipocok": [
+      "Announcement",
+      "Jobseeker"
+    ],
+    "~ toko rana": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker"
+    ],
+    "~ veronica": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ wikeeeww": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "~ wumbo": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ y": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk",
+      "Upskill"
+    ],
+    "~ ~ Alfis": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Upskill"
+    ],
+    "~ خنساء": [
+      "Announcement",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~ √Devi": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "~𝕬𝕷'𝖇𝖎": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Promosi",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "وتذكر ان الله دائما معنا ولكن نحن مقصرين بحقه": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi"
+    ],
+    "‎Ada": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Ruang Curhat"
+    ],
+    "‎Available": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Ruang Curhat",
+      "Side Hustle Lynk"
+    ],
+    "‎Can't talk, WhatsApp only": [
+      "Announcement",
+      "Cv Review & Sharing Materi",
+      "Info Loker",
+      "Jobseeker",
+      "Learn English",
+      "Promosi",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "‎Sibuk": [
+      "Announcement",
+      "Info Loker",
+      "Jobseeker",
+      "Promosi",
+      "Ruang Curhat"
+    ],
+    "‎Urgent calls only": [
+      "Announcement",
+      "Info Loker",
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~ DIRA": [
+      "Ruang Curhat",
+      "Upskill"
+    ],
+    "~Regi": [
+      "Side Hustle Lynk"
+    ]
+  },
+  "totalUniqueMembers": 1226,
+  "announcementMembers": 1224,
+  "overlapMatrix": [
+    {
+      "group": "Announcement",
+      "overlaps": {
+        "Announcement": {
+          "count": 1224,
+          "percentage": 100
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 731,
+          "percentage": 59.7
+        },
+        "Info Loker": {
+          "count": 914,
+          "percentage": 74.7
+        },
+        "Jobseeker": {
+          "count": 525,
+          "percentage": 42.9
+        },
+        "Learn English": {
+          "count": 332,
+          "percentage": 27.1
+        },
+        "Promosi": {
+          "count": 375,
+          "percentage": 30.6
+        },
+        "Ruang Curhat": {
+          "count": 892,
+          "percentage": 72.9
+        },
+        "Side Hustle Lynk": {
+          "count": 334,
+          "percentage": 27.3
+        },
+        "Upskill": {
+          "count": 405,
+          "percentage": 33.1
+        }
+      }
+    },
+    {
+      "group": "Cv Review & Sharing Materi",
+      "overlaps": {
+        "Announcement": {
+          "count": 731,
+          "percentage": 100
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 731,
+          "percentage": 100
+        },
+        "Info Loker": {
+          "count": 674,
+          "percentage": 92.2
+        },
+        "Jobseeker": {
+          "count": 368,
+          "percentage": 50.3
+        },
+        "Learn English": {
+          "count": 249,
+          "percentage": 34.1
+        },
+        "Promosi": {
+          "count": 325,
+          "percentage": 44.5
+        },
+        "Ruang Curhat": {
+          "count": 629,
+          "percentage": 86
+        },
+        "Side Hustle Lynk": {
+          "count": 282,
+          "percentage": 38.6
+        },
+        "Upskill": {
+          "count": 290,
+          "percentage": 39.7
+        }
+      }
+    },
+    {
+      "group": "Info Loker",
+      "overlaps": {
+        "Announcement": {
+          "count": 914,
+          "percentage": 100
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 674,
+          "percentage": 73.7
+        },
+        "Info Loker": {
+          "count": 914,
+          "percentage": 100
+        },
+        "Jobseeker": {
+          "count": 447,
+          "percentage": 48.9
+        },
+        "Learn English": {
+          "count": 287,
+          "percentage": 31.4
+        },
+        "Promosi": {
+          "count": 358,
+          "percentage": 39.2
+        },
+        "Ruang Curhat": {
+          "count": 745,
+          "percentage": 81.5
+        },
+        "Side Hustle Lynk": {
+          "count": 319,
+          "percentage": 34.9
+        },
+        "Upskill": {
+          "count": 333,
+          "percentage": 36.4
+        }
+      }
+    },
+    {
+      "group": "Jobseeker",
+      "overlaps": {
+        "Announcement": {
+          "count": 525,
+          "percentage": 100
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 368,
+          "percentage": 70.1
+        },
+        "Info Loker": {
+          "count": 447,
+          "percentage": 85.1
+        },
+        "Jobseeker": {
+          "count": 525,
+          "percentage": 100
+        },
+        "Learn English": {
+          "count": 234,
+          "percentage": 44.6
+        },
+        "Promosi": {
+          "count": 208,
+          "percentage": 39.6
+        },
+        "Ruang Curhat": {
+          "count": 372,
+          "percentage": 70.9
+        },
+        "Side Hustle Lynk": {
+          "count": 237,
+          "percentage": 45.1
+        },
+        "Upskill": {
+          "count": 300,
+          "percentage": 57.1
+        }
+      }
+    },
+    {
+      "group": "Learn English",
+      "overlaps": {
+        "Announcement": {
+          "count": 332,
+          "percentage": 100
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 249,
+          "percentage": 75
+        },
+        "Info Loker": {
+          "count": 287,
+          "percentage": 86.4
+        },
+        "Jobseeker": {
+          "count": 234,
+          "percentage": 70.5
+        },
+        "Learn English": {
+          "count": 332,
+          "percentage": 100
+        },
+        "Promosi": {
+          "count": 163,
+          "percentage": 49.1
+        },
+        "Ruang Curhat": {
+          "count": 256,
+          "percentage": 77.1
+        },
+        "Side Hustle Lynk": {
+          "count": 186,
+          "percentage": 56
+        },
+        "Upskill": {
+          "count": 203,
+          "percentage": 61.1
+        }
+      }
+    },
+    {
+      "group": "Promosi",
+      "overlaps": {
+        "Announcement": {
+          "count": 375,
+          "percentage": 100
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 325,
+          "percentage": 86.7
+        },
+        "Info Loker": {
+          "count": 358,
+          "percentage": 95.5
+        },
+        "Jobseeker": {
+          "count": 208,
+          "percentage": 55.5
+        },
+        "Learn English": {
+          "count": 163,
+          "percentage": 43.5
+        },
+        "Promosi": {
+          "count": 375,
+          "percentage": 100
+        },
+        "Ruang Curhat": {
+          "count": 339,
+          "percentage": 90.4
+        },
+        "Side Hustle Lynk": {
+          "count": 192,
+          "percentage": 51.2
+        },
+        "Upskill": {
+          "count": 172,
+          "percentage": 45.9
+        }
+      }
+    },
+    {
+      "group": "Ruang Curhat",
+      "overlaps": {
+        "Announcement": {
+          "count": 892,
+          "percentage": 99.9
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 629,
+          "percentage": 70.4
+        },
+        "Info Loker": {
+          "count": 745,
+          "percentage": 83.4
+        },
+        "Jobseeker": {
+          "count": 372,
+          "percentage": 41.7
+        },
+        "Learn English": {
+          "count": 256,
+          "percentage": 28.7
+        },
+        "Promosi": {
+          "count": 339,
+          "percentage": 38
+        },
+        "Ruang Curhat": {
+          "count": 893,
+          "percentage": 100
+        },
+        "Side Hustle Lynk": {
+          "count": 294,
+          "percentage": 32.9
+        },
+        "Upskill": {
+          "count": 294,
+          "percentage": 32.9
+        }
+      }
+    },
+    {
+      "group": "Side Hustle Lynk",
+      "overlaps": {
+        "Announcement": {
+          "count": 334,
+          "percentage": 99.7
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 282,
+          "percentage": 84.2
+        },
+        "Info Loker": {
+          "count": 319,
+          "percentage": 95.2
+        },
+        "Jobseeker": {
+          "count": 237,
+          "percentage": 70.7
+        },
+        "Learn English": {
+          "count": 186,
+          "percentage": 55.5
+        },
+        "Promosi": {
+          "count": 192,
+          "percentage": 57.3
+        },
+        "Ruang Curhat": {
+          "count": 294,
+          "percentage": 87.8
+        },
+        "Side Hustle Lynk": {
+          "count": 335,
+          "percentage": 100
+        },
+        "Upskill": {
+          "count": 208,
+          "percentage": 62.1
+        }
+      }
+    },
+    {
+      "group": "Upskill",
+      "overlaps": {
+        "Announcement": {
+          "count": 405,
+          "percentage": 99.8
+        },
+        "Cv Review & Sharing Materi": {
+          "count": 290,
+          "percentage": 71.4
+        },
+        "Info Loker": {
+          "count": 333,
+          "percentage": 82
+        },
+        "Jobseeker": {
+          "count": 300,
+          "percentage": 73.9
+        },
+        "Learn English": {
+          "count": 203,
+          "percentage": 50
+        },
+        "Promosi": {
+          "count": 172,
+          "percentage": 42.4
+        },
+        "Ruang Curhat": {
+          "count": 294,
+          "percentage": 72.4
+        },
+        "Side Hustle Lynk": {
+          "count": 208,
+          "percentage": 51.2
+        },
+        "Upskill": {
+          "count": 406,
+          "percentage": 100
+        }
+      }
+    }
+  ],
+  "engagementDistribution": [
+    {
+      "groupCount": 8,
+      "userCount": 102,
+      "label": "8 Groups"
+    },
+    {
+      "groupCount": 7,
+      "userCount": 60,
+      "label": "7 Groups"
+    },
+    {
+      "groupCount": 6,
+      "userCount": 106,
+      "label": "6 Groups"
+    },
+    {
+      "groupCount": 5,
+      "userCount": 122,
+      "label": "5 Groups"
+    },
+    {
+      "groupCount": 4,
+      "userCount": 200,
+      "label": "4 Groups"
+    },
+    {
+      "groupCount": 3,
+      "userCount": 221,
+      "label": "3 Groups"
+    },
+    {
+      "groupCount": 2,
+      "userCount": 175,
+      "label": "2 Groups"
+    },
+    {
+      "groupCount": 1,
+      "userCount": 216,
+      "label": "1 Group"
+    },
+    {
+      "groupCount": 0,
+      "userCount": 24,
+      "label": "0 Group"
+    }
+  ],
+  "passiveListeners": 22,
+  "activeInSubgroups": 1202
+}
