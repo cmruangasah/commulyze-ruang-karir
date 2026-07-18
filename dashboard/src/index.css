@@ -462,16 +462,19 @@ body {
   }
   
   .nav-items {
-    flex-direction: row;
-    flex-wrap: wrap;
-    justify-content: center;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
     gap: 0.5rem;
   }
   
   .nav-btn {
-    width: auto;
-    padding: 0.5rem 0.75rem;
-    font-size: 0.85rem;
+    width: 100%;
+    padding: 0.5rem 0.25rem;
+    font-size: 0.75rem;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    gap: 0.25rem;
   }
   
   .main-content {
@@ -489,8 +492,7 @@ body {
   }
   
   .lang-switcher {
-    width: 100%;
-    justify-content: center;
+    align-self: flex-start;
   }
   
   .kpi-grid {
