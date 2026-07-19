@@ -20,6 +20,13 @@ Developed a full-stack analytics pipeline without relying on official APIs:
    - **Cross-Pollination Matrix:** A heatmap showing the exact percentage of member overlap between any two groups.
    - **Engagement Tiers:** A distribution chart mapping "Casual Members" (1 group) vs "Super Members" (4+ groups).
 
+### ⚠️ Data Limitations & Margin of Error
+Since the data extraction relies on DOM scraping rather than a direct API, the methodology carries a minor margin of error (estimated at ±1-3%):
+- **Hidden Numbers:** Users with strict WhatsApp privacy settings who hide their phone numbers from non-contacts cannot be fully tracked, slightly skewing overlap metrics.
+- **Dynamic Churn:** WhatsApp groups are highly active. Members joining or leaving in the time gap between scraping Group A and Group B could cause minor discrepancies.
+- **Number Formatting:** While discrepancies in country codes were largely mitigated via regex normalization in `cleaner.js`, rare edge cases in international formats might slip through.
+*Acknowledging this margin of error ensures stakeholders make strategic decisions based on highly reliable macro-trends rather than pixel-perfect counts.*
+
 ## 🎯 Business Impact / Positioning
 This dashboard serves as the **"Behavioral & Operational Compass"** of the Ruang Karir Ecosystem.
 While other dashboards handle Market Research (Surveys) and Chat Sentiment, **CommuLyze Pro** dictates Community Architecture.
