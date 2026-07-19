@@ -36,5 +36,10 @@ While other dashboards handle Market Research (Surveys) and Chat Sentiment, **Co
 - **Targeted Monetization:** Isolated the contact details of "Super Members" (users in 4+ groups) to be used as high-converting leads for premium bootcamp cross-selling.
 - **Engagement Strategy:** Revealed the exact percentage of "Passive Listeners" in the main group, triggering a targeted re-engagement campaign.
 
+## 🚀 Future Roadmap (v2.0)
+To elevate this tool from *Community Architecture* to a complete *Community Health* monitor, the next development phase will include:
+- **Chat Volume & Sentiment Engine:** Parsing exported chat logs (`.txt`) to measure active messages per day and member sentiment.
+- **Strategic "Delete" Recommendations:** While CommuLyze v1.0 expertly advises which groups to **Merge** based on overlap, v2.0 will introduce "Group Health Scores". Groups falling below a specific engagement threshold will be automatically flagged for **Sunsetting (Deletion)** to eliminate "Zombie Groups" and preserve operational bandwidth.
+
 ---
 *Note for Portfolio: This project demonstrates the ability to bypass API limitations creatively, transform unstructured text into structured insights, and design C-Level ready dashboards.*
