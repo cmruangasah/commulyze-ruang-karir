@@ -32,7 +32,7 @@ const i18n = {
     actionsTitle: "Actionable Items",
     actionsDesc: "Strategic recommendations to execute.",
     action1Title: "Merge Redundant Groups",
-    action1Desc: "Consolidate groups with >80% overlap into a single 'Career Center' group to reduce moderation overhead and centralize discussions.",
+    action1Desc: "Consolidate groups with >75% overlap into a single 'Career Center' group to reduce moderation overhead and centralize discussions.",
     action2Title: "Monetize the Highly Engaged",
     action2Desc: "Extract the contacts of members in 4+ groups and target them as early adopters/beta testers for premium programs like Ruang Karir or Bootcamp.",
     action3Title: "Activate Passive Listeners",
@@ -44,19 +44,19 @@ const i18n = {
     // Matrix
     matrixTitle: "Cross-Pollination Matrix",
     matrixDesc: 'Identify group redundancies. Read as: "X% of members in [Row] are also in [Column]".',
-    legendMerge: "> 90% (Merge Candidate)",
-    legendHigh: "60% - 90%",
-    legendMed: "30% - 60%",
-    legendLow: "< 30% (Distinct)",
+    legendMerge: "> 75% (Merge Candidate)",
+    legendHigh: "50% - 74%",
+    legendMed: "25% - 49%",
+    legendLow: "< 25% (Distinct)",
     
     matrixInsights: "Matrix Insights",
     mInsight1Title: "High Redundancy Zones",
-    mInsight1Desc: "Notice the dark red cells? This means almost everyone in Group A is already in Group B. Broadcasting the same message to both is practically spamming the same people twice.",
+    mInsight1Desc: "Notice the dark red cells (>75% overlap)? Based on the 80/20 rule, maintaining both groups yields diminishing returns. Broadcasting the same message to both causes audience fatigue.",
     mInsight2Title: "Isolated Niches",
     mInsight2Desc: "Blue/Trace cells indicate highly distinct audiences with entirely different core interests.",
     
     mAction1Title: "Execute Group Mergers",
-    mAction1Desc: "Immediately combine groups that show >85% cross-pollination to streamline moderation and prevent audience fatigue.",
+    mAction1Desc: "Immediately combine groups that show >75% cross-pollination to streamline moderation and prevent audience fatigue.",
     mAction2Title: "Content Personalization",
     mAction2Desc: "Stop cross-posting general announcements to isolated niches. Keep 'Learn English' strictly for language content to maintain their engagement.",
 
@@ -100,7 +100,7 @@ const i18n = {
     actionsTitle: "Rekomendasi Aksi",
     actionsDesc: "Rekomendasi strategis untuk segera dieksekusi.",
     action1Title: "Gabungkan Grup Redundan",
-    action1Desc: "Satukan grup dengan tingkat kesamaan >80% menjadi satu 'Pusat Karir' untuk mengurangi beban moderasi dan memusatkan diskusi.",
+    action1Desc: "Satukan grup dengan tingkat kesamaan >75% menjadi satu 'Pusat Karir' untuk mengurangi beban moderasi dan memusatkan diskusi.",
     action2Title: "Monetisasi Member Aktif",
     action2Desc: "Ambil kontak dari member yang ikut 4+ grup dan jadikan mereka target pengguna awal (beta tester) untuk program berbayar seperti Ruang Karir atau Bootcamp.",
     action3Title: "Aktivasi Pendengar Pasif",
@@ -112,19 +112,19 @@ const i18n = {
     // Matrix
     matrixTitle: "Matriks Keterkaitan (Cross-Pollination)",
     matrixDesc: 'Mendeteksi redundansi grup. Cara baca: "X% dari member di [Baris] juga berada di [Kolom]".',
-    legendMerge: "> 90% (Kandidat Gabung)",
-    legendHigh: "60% - 90%",
-    legendMed: "30% - 60%",
-    legendLow: "< 30% (Berbeda)",
+    legendMerge: "> 75% (Kandidat Gabung)",
+    legendHigh: "50% - 74%",
+    legendMed: "25% - 49%",
+    legendLow: "< 25% (Berbeda)",
     
     matrixInsights: "Wawasan Matriks",
     mInsight1Title: "Zona Redundansi Tinggi",
-    mInsight1Desc: "Melihat kotak berwarna merah tua? Itu artinya hampir semua orang di Grup A juga ada di Grup B. Mengirim pesan yang sama ke keduanya sama saja dengan spamming.",
+    mInsight1Desc: "Melihat kotak merah tua (>75% overlap)? Berdasarkan aturan 80/20, mengelola dua grup ini membuang resource. Mengirim pesan yang sama ke keduanya hanya akan memicu kelelahan audiens (audience fatigue).",
     mInsight2Title: "Niche yang Terisolasi",
     mInsight2Desc: "Kotak biru menandakan audiens yang sangat berbeda dengan minat utama yang tidak saling berkaitan.",
     
     mAction1Title: "Eksekusi Penggabungan Grup",
-    mAction1Desc: "Segera gabungkan grup yang menunjukkan kesamaan >85% untuk merampingkan moderasi dan mencegah kebosanan audiens.",
+    mAction1Desc: "Segera gabungkan grup yang menunjukkan kesamaan >75% untuk merampingkan moderasi dan mencegah kebosanan audiens.",
     mAction2Title: "Personalisasi Konten",
     mAction2Desc: "Hentikan pengiriman pengumuman umum ke grup yang terisolasi. Jaga agar grup seperti 'Learn English' tetap fokus pada konten bahasa Inggris saja.",
 
@@ -186,9 +186,9 @@ export default function App() {
   const COLORS = ['#3b82f6', '#8b5cf6', '#ec4899', '#f43f5e', '#f59e0b', '#10b981', '#14b8a6', '#0ea5e9'];
 
   const getHeatmapColor = (percentage) => {
-    if (percentage >= 90) return 'var(--matrix-high)';
-    if (percentage >= 60) return 'var(--matrix-med)';
-    if (percentage >= 30) return 'var(--matrix-low)';
+    if (percentage >= 75) return 'var(--matrix-high)';
+    if (percentage >= 50) return 'var(--matrix-med)';
+    if (percentage >= 25) return 'var(--matrix-low)';
     if (percentage > 0) return 'var(--matrix-trace)';
     return 'var(--bg-card-hover)';
   };

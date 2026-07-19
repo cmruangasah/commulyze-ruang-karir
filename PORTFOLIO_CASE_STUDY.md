@@ -32,7 +32,7 @@ This dashboard serves as the **"Behavioral & Operational Compass"** of the Ruang
 While other dashboards handle Market Research (Surveys) and Chat Sentiment, **CommuLyze Pro** dictates Community Architecture.
 
 **Actionable Outcomes from this project:**
-- **Cost/Effort Reduction:** Identified redundant groups with >80% overlap (e.g., Jobseeker & Info Loker) allowing management to merge them and save moderation bandwidth.
+- **Cost/Effort Reduction:** Identified redundant groups with >75% overlap (e.g., Jobseeker & Info Loker). Applying the 80/20 rule, management merged them to prevent audience fatigue and save moderation bandwidth.
 - **Targeted Monetization:** Isolated the contact details of "Super Members" (users in 4+ groups) to be used as high-converting leads for premium bootcamp cross-selling.
 - **Engagement Strategy:** Revealed the exact percentage of "Passive Listeners" in the main group, triggering a targeted re-engagement campaign.
 
