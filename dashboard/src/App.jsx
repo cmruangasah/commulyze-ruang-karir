@@ -14,6 +14,7 @@ const i18n = {
     headerTitle: "Community Health & Engagement Report",
     headerDesc: "Strategic insights for stakeholders and community managers.",
     cutoff: "Data Cutoff: July 18, 2026, 15:00 WIB",
+    disclaimer: "*Note: Estimated margin of error ±1-3% due to dynamic churn and hidden numbers.",
     kpiTotal: "Total Community Base",
     kpiActive: "Active in Sub-groups",
     kpiPassive: "Passive (Announcement Only)",
@@ -81,6 +82,7 @@ const i18n = {
     headerTitle: "Laporan Kesehatan & Interaksi Komunitas",
     headerDesc: "Wawasan strategis untuk para founder dan manajer komunitas.",
     cutoff: "Data Cutoff: 18 Juli 2026, 15:00 WIB",
+    disclaimer: "*Catatan: Estimasi margin of error ±1-3% karena dinamika keluar-masuk grup & nomor tersembunyi.",
     kpiTotal: "Total Basis Komunitas",
     kpiActive: "Aktif di Sub-grup",
     kpiPassive: "Pasif (Hanya Pengumuman)",
@@ -233,6 +235,7 @@ export default function App() {
             <h1>{t.headerTitle}</h1>
             <p>{t.headerDesc}</p>
             <p className="cutoff-text">{t.cutoff}</p>
+            <p className="disclaimer-text">{t.disclaimer}</p>
           </div>
           
           {/* Language Switcher */}
